@@ -1,0 +1,12 @@
+.header__navigation {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding: 0 7px 0 40px;
+  max-width: 663px;
+  width: 100%;
+  min-height: 54px;
+  background: #FFFFFF;
+  border-radius: 9999px;
+  justify-content: space-between;
+}

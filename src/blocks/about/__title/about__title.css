@@ -1,0 +1,12 @@
+.about__title {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 93px;
+  line-height: 112px;
+  text-align: right;
+  letter-spacing: 5.625px;
+  color: #FBF7F3;
+}

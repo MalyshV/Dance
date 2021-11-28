@@ -14,4 +14,20 @@
 @import url(../../src/blocks/moment/__article/moment__article.css);
 @import url(../../src/blocks/moment/__text/moment__text.css);
 @import url(../../src/blocks/moment/__title/moment__title.css);
+@import url(../../src/blocks/about/about.css);
+@import url(../../src/blocks/about/__title/about__title.css);
+@import url(../../src/blocks/about/__subtitle/about__subtitle.css);
+@import url(../../src/blocks/description/description.css);
+@import url(../../src/blocks/description/__atricle/description__atricle.css);
+@import url(../../src/blocks/description/__button/description__button.css);
+@import url(../../src/blocks/description/__title/description__title.css);
+@import url(../../src/blocks/header/header.css);
+@import url(../../src/blocks/header/__logo/header__logo.css);
+@import url(../../src/blocks/header/__navigation/header__navigation.css);
+@import url(../../src/blocks/header/__button/header__button.css);
+@import url(../../src/blocks/header/__lang/header__lang.css);
+@import url(../../src/blocks/header/__langs/header__langs.css);
+@import url(../../src/blocks/header/__link/header__link.css);
+@import url(../../src/blocks/header/__links/header__links.css);
+@import url(../../src/blocks/header/__lang/_type/header__lang_type_checked.css);
 

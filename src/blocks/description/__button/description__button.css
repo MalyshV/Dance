@@ -1,0 +1,21 @@
+.description__button {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #FBF7F3;
+  background-color: #7140EB;
+  border-radius: 9999px;
+  width: 186px;
+  height: 45px;
+  cursor: pointer;
+  border: none;
+}
+
+.description__button:hover {
+  opacity: 0.7;
+}
