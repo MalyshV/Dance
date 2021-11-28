@@ -1,0 +1,11 @@
+.repair {
+  height: 1102px;
+  height: 100%;
+  background-image: url('../../images/Rectangle\ \(2\).svg');
+  margin: 0;
+  padding: 0;
+  padding-top: 188px;
+  padding-bottom: 77px;
+  display: flex;
+  flex-direction: column;
+}

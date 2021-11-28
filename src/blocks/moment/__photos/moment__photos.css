@@ -1,0 +1,7 @@
+.moment__photos {
+  width: 360px;
+  height: 540px;
+  object-fit: cover;
+  z-index: 0;
+  position: relative;
+}

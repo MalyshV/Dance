@@ -1,2 +1,17 @@
 @import url(../../vendor/normalize.css);
 @import url(../../vendor/fonts/fonts.css);
+@import url(../../src/blocks/image/image.css);
+@import url(../../src/blocks/image/__photo/image__photo.css);
+@import url(../../src/blocks/repair/repair.css);
+@import url(../../src/blocks/repair/__title/repair__title.css);
+@import url(../../src/blocks/repair/__image/repair__image.css);
+@import url(../../src/blocks/repair/__item/repair__item.css);
+@import url(../../src/blocks/repair/__items/repair__items.css);
+@import url(../../src/blocks/repair/__paragraph/repair__paragraph.css);
+@import url(../../src/blocks/repair/__text/repair__text.css);
+@import url(../../src/blocks/moment/moment.css);
+@import url(../../src/blocks/moment/__photos/moment__photos.css);
+@import url(../../src/blocks/moment/__article/moment__article.css);
+@import url(../../src/blocks/moment/__text/moment__text.css);
+@import url(../../src/blocks/moment/__title/moment__title.css);
+
