@@ -1,0 +1,25 @@
+.circle {
+  animation: circle linear infinite 4.5s;
+}
+
+/* @keyframes circle {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/
+
+@keyframes circle {
+  0% {
+    transform: translate(0, 5px);
+  }
+  50% {
+    transform: translate(0, -5px);
+  }
+
+  100% {
+    transform: translate(0, 5px);
+  }
+}

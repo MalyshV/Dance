@@ -50,3 +50,7 @@
 @import url(../../src/blocks/promo/__ball/promo__ball.css);
 @import url(../../src/blocks/promo/__like/promo__like.css);
 @import url(../../src/blocks/promo/__subtitle/_size/promo__subtitle_size_l.css);
+@import url(../../src/blocks/circle/circle.css);
+@import url(../../src/blocks/move/move.css);
+@import url(../../src/blocks/scale/scale.css);
+@import url(../../src/blocks/pulse/pulse.css);

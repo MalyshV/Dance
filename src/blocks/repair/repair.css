@@ -1,11 +1,13 @@
 .repair {
-  height: 1102px;
+  min-height: 900px;
   height: 100%;
-  background-image: url('../../images/Rectangle\ \(2\).svg');
   margin: 0;
   padding: 0;
   padding-top: 188px;
-  padding-bottom: 77px;
   display: flex;
   flex-direction: column;
+  background-image: url('../../images/Rectangle\ \(2\).svg');
+  background-size: 110%;
+  background-position-y: 70px;
+  background-position-x: -70px;
 }
