@@ -30,4 +30,23 @@
 @import url(../../src/blocks/header/__link/header__link.css);
 @import url(../../src/blocks/header/__links/header__links.css);
 @import url(../../src/blocks/header/__lang/_type/header__lang_type_checked.css);
-
+@import url(../../src/blocks/promo/promo.css);
+@import url(../../src/blocks/promo/__image/promo__image.css);
+@import url(../../src/blocks/promo/__image/_size/promo__image_size_l.css);
+@import url(../../src/blocks/promo/__subtitle/promo__subtitle.css);
+@import url(../../src/blocks/promo/__title/promo__title.css);
+@import url(../../src/blocks/promo/__bike/promo__bike.css);
+@import url(../../src/blocks/promo/__build/promo__build.css);
+@import url(../../src/blocks/promo/__items/promo__items.css);
+@import url(../../src/blocks/promo/__item/promo__item.css);
+@import url(../../src/blocks/promo/__text/promo__text.css);
+@import url(../../src/blocks/promo/__sub/promo__sub.css);
+@import url(../../src/blocks/promo/__benefits/promo__benefits.css);
+@import url(../../src/blocks/promo/__pic/promo__pic.css);
+@import url(../../src/blocks/promo/__ride/promo__ride.css);
+@import url(../../src/blocks/promo/__list/promo__list.css);
+@import url(../../src/blocks/promo/__part/promo__part.css);
+@import url(../../src/blocks/promo/__parts/promo__parts.css);
+@import url(../../src/blocks/promo/__ball/promo__ball.css);
+@import url(../../src/blocks/promo/__like/promo__like.css);
+@import url(../../src/blocks/promo/__subtitle/_size/promo__subtitle_size_l.css);

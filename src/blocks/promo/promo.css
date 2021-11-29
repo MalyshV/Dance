@@ -1,0 +1,12 @@
+.promo {
+  margin: 0;
+  padding: 0 112px 163px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 2310px;
+  background-color: #FBF7F3;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+}
