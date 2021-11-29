@@ -2,7 +2,7 @@
 ------
 
 #### Приложение на телефон для езды на велосипеде
-###### Верстка по макету из фигмы [https://www.figma.com/file/I3WtnthvtWU4Ie2EdlyAMF/Dance?node-id=1%3A2] - расширение 1440px
+###### Верстка по макету из фигмы: https://www.figma.com/file/I3WtnthvtWU4Ie2EdlyAMF/Dance?node-id=1%3A2 - расширение 1440px
 ------
 
 Представляет собой статичную (неадаптивную) страницу из 7 блоков. Для создания страницы использованы:
@@ -16,4 +16,4 @@
 
 -----
 
-* Ссылка на GitHub Pages [https://malyshv.github.io/dance/]
+* Ссылка на GitHub Pages: https://malyshv.github.io/dance/
